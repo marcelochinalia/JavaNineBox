@@ -1,0 +1,4 @@
+Host....: sql10.freesqldatabase.com:3306
+Database: sql10644387
+Username: sql10644387
+Password: JUe2pZ9hxs 
